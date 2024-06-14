@@ -12,6 +12,7 @@
     "#define nl '\\n'",
     "#define is ==",
     "#define isnot !=",
+    "#define in :",
     "",
     "class Solution {",
     "private:",
