@@ -33,3 +33,6 @@
 
 bits/
 *.txt
+*.cpp
+# Allow .cpp files in subdirectories
+!*/**/*.cpp
